@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-04T12:47:54 IST" name="Default suite" finished-at="2025-01-04T12:48:04 IST" duration-ms="9823">
+    <groups>
+    </groups>
+    <test started-at="2025-01-04T12:47:54 IST" name="Default test" finished-at="2025-01-04T12:48:04 IST" duration-ms="9823">
+      <class name="Boday_Send_Using_Map">
+        <test-method signature="addBook()[pri:0, instance:Boday_Send_Using_Map@4837595f]" started-at="2025-01-04T12:47:54 IST" name="addBook" finished-at="2025-01-04T12:48:04 IST" duration-ms="9610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBook -->
+      </class> <!-- Boday_Send_Using_Map -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
